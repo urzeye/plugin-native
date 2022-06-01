@@ -1,6 +1,6 @@
 # plugin-native
 
-### A plugin for the [ja-netfilter](https://github.com/ja-netfilter/ja-netfilter), it is a wrapper for native methods.
+### A plugin for the [ja-netfilter](https://gitee.com/ja-netfilter/ja-netfilter), it is a wrapper for native methods.
 
 #### Required: `ja-netfilter >= 2.1.1`
 
